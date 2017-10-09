@@ -1,0 +1,73 @@
+*{
+
+  background-color: lavender;
+
+}
+
+.image{
+
+  float:right;
+
+
+}
+
+#landingHead{
+
+  text-align:center;
+
+}
+
+#addCartButton{
+  
+background-color: LemonChiffon;
+  
+font-family: Georgia;
+  
+height: 30px;
+
+}
+
+#button2{
+
+  float:right;
+
+  clear:right;
+
+}
+
+#annV{
+
+  width: 100px;
+
+  float: right;
+
+}
+
+#annText{
+
+  text-align: right;
+
+}
+#mattC{
+
+  width:100px;
+
+  float: left;
+
+}
+
+#meetPaul{
+
+  width: 120px;
+
+  float:right;
+
+  padding: 20px;
+
+}
+
+#aboutPaul{
+
+  text-align: right;
+
+}
